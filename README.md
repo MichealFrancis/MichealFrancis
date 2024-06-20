@@ -1,6 +1,7 @@
 Pushd and popd are not itself related to c programming but commands used in linux
 
 Pushd- The command is used to push a directory(or path file ) onto the stack or the current working path file 
+
 /home/user
 └── projects
     ├── project1
@@ -27,8 +28,4 @@ $ popd
 $ popd
 ~ 
 
-Instead of sending value we can sent file directory to push and pop functio
-<!---
-MichealFrancis/MichealFrancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
